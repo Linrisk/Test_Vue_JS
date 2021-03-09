@@ -1,0 +1,17 @@
+html{
+    margin:0;
+    padding:0;
+}
+
+.container-all{
+    background-color: yellow;
+    border-radius: 3%;
+}
+
+.panier{ 
+    right:-300;
+}
+
+.menu{
+    border-bottom: 2px solid;
+}
